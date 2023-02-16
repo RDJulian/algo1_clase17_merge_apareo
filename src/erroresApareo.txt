@@ -1,0 +1,2 @@
+191919,Ejemplo,Real,A
+272727,Fulano,Mengano,C

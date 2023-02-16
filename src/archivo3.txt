@@ -1,0 +1,5 @@
+108410,Julia,Ruiz,M
+108411,Pepe,Pepito,A
+191919,Ejemplo,Real,A
+200000,Prueba,Dos,B
+272727,Fulano,Mengano,C
